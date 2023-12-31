@@ -1,2 +1,2 @@
 # qubicWorkshop
-Softuni First Workshop - Cubical 
+Softuni First Workshop - Cubical.
